@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Current Build
+| Hardware | Model |
 | :---: | :---: |
 | CPU | Intel® Core™ i7-8700K | 
 | RAM | Ripjaws V DDR4-3000 CL15-16-16-35 1.35V 16GB (2x8GB) | 
